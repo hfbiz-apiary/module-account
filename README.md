@@ -1,4 +1,4 @@
-module-account
+module Account
 ==============
 
 APIARY - module Account
